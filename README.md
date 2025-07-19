@@ -7,3 +7,16 @@ I’m passionate about applying data analysis and machine learning to solve real
 As part of the Break Through Tech AI program hosted by Cornell Tech, I’ve been gaining hands-on experience with machine learning concepts, tools, and real-world applications.  
 
 Currently, I’m focused on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals—got any leads? Let me know!
+
+🛠 Tech Stack:
+Languages: Python
+Data Science: Pandas, NumPy, scikit-learn, matplotlib
+Web Dev: HTML, CSS, JavaScript, Node.js
+Databases: SQL, MySQL
+Tools: Jupyter Notebooks, Google Colab, VS Code, Git, GitHub, Excel, Google Sheets
+
+📫 How to Reach Me:  
+Email: fmezgebu@terpmail.umd.edu  
+LinkedIn: [linkedin.com/in/fikreab-mezgebu](https://www.linkedin.com/in/fikreab-mezgebu)
+
+

@@ -6,14 +6,14 @@ I’m passionate about applying data and business analytics to solve real-world 
 
 As part of the Break Through Tech AI program hosted by Cornell Tech, I’ve been gaining hands-on experience with analytics tools, machine learning concepts, and real-world data applications.  
 
-Currently, I’m focused on exploring data-driven decision-making and technical operations in FinTech and analytics. I’m looking to grow through an internship where I can contribute to impactful projects and continue learning from experienced professionals.
+Currently, I’m focused on exploring data-driven decision-making and technical operations in FinTech and analytics. I’m seeking an internship where I can contribute to impactful projects and continue learning in real-world environments.
 
 🛠 Tech Stack:
-Languages: Python
-Data Science: Pandas, NumPy, scikit-learn, matplotlib
-Web Dev: HTML, CSS, JavaScript, Node.js
+Languages: Python, JavaScript
+Data & Analytics: Pandas, NumPy, scikit-learn, matplotlib, Excel, Google Sheets, Tableau
+Web Development: HTML, CSS, Node.js
 Databases: SQL, MySQL
-Tools: Jupyter Notebooks, Google Colab, VS Code, Git, GitHub, Excel, Google Sheets
+Tools: Jupyter Notebooks, Google Colab, VS Code, Git, GitHub
 
 📫 How to Reach Me:  
 Email: fmezgebu@terpmail.umd.edu  

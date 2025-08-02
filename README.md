@@ -2,11 +2,11 @@
 🎓 Junior at the University of Maryland, studying Information Science  
 🔬 Aspiring Data Analyst and Machine Learning Enthusiast with a passion for public-interest technology
 
-I’m passionate about applying data analysis and machine learning to solve real-world problems. I’m big on continuously learning and building my skills, and I believe taking initiative is key to growth.  
+I’m passionate about applying data and business analytics to solve real-world problems. I’m big on continuously learning and building my skills, and I believe taking initiative is key to growth.  
 
-As part of the Break Through Tech AI program hosted by Cornell Tech, I’ve been gaining hands-on experience with machine learning concepts, tools, and real-world applications.  
+As part of the Break Through Tech AI program hosted by Cornell Tech, I’ve been gaining hands-on experience with analytics tools, machine learning concepts, and real-world data applications.  
 
-Currently, I’m focused on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals—got any leads? Let me know!
+Currently, I’m focused on exploring data-driven decision-making and technical operations in FinTech and analytics. I’m looking to grow through an internship where I can contribute to impactful projects and continue learning from experienced professionals.
 
 🛠 Tech Stack:
 Languages: Python

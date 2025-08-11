@@ -15,6 +15,13 @@ Web Development: HTML, CSS, Node.js
 Databases: SQL, MySQL
 Tools: Jupyter Notebooks, Google Colab, VS Code, Git, GitHub
 
+🎯 **Featured Project: DMV Bank Climate Risk Map**  
+- What I’m Doing: I clean and standardize FDIC branch data for Maryland, DC, and Virginia, merge it with FEMA climate risk scores, and build an interactive Tableau map to show risk levels by location.  
+- Tools: Python (Pandas), SQL, Tableau, Excel  
+- Goal: Create a resource that identifies high-risk areas for bank branches in the DMV region by combining climate and financial data.  
+
+Curious? See the full project here ([https://github.com/fikreab123/climate_risk_dmv](url))
+
 📫 How to Reach Me:  
 Email: fmezgebu@terpmail.umd.edu  
 LinkedIn: [linkedin.com/in/fikreab-mezgebu](https://www.linkedin.com/in/fikreab-mezgebu)

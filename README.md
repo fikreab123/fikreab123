@@ -20,7 +20,7 @@ Tools: Jupyter Notebooks, Google Colab, VS Code, Git, GitHub
 - Tools: Python (Pandas), SQL, Tableau, Excel  
 - Goal: Create a resource that identifies high-risk areas for bank branches in the DMV region by combining climate and financial data.  
 
-Curious? See the full project here ([https://github.com/fikreab123/climate_risk_dmv](url))
+Curious? See the full project here (https://github.com/fikreab123/climate_risk_dmv)
 
 📫 How to Reach Me:  
 Email: fmezgebu@terpmail.umd.edu  

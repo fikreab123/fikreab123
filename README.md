@@ -1,29 +1,49 @@
-👋 Hi, I'm Fikreab!  
-🎓 Junior at the University of Maryland, studying Information Science  
-🔬 Aspiring Data Analyst and Machine Learning Enthusiast with a passion for public-interest technology
+# 👋 Hi, I'm Fikreab!  
 
-I’m passionate about applying data and business analytics to solve real-world problems. I’m big on continuously learning and building my skills, and I believe taking initiative is key to growth.  
+🎓 **Senior at the University of Maryland**, studying **Information Science (B.S.)** and enrolled in the **Plus One program** to also earn an **M.S. in Information Systems**  
+📊 **Aspiring Data & Analytics Professional** with interests in **AI/ML, fintech, and data-driven decision-making**  
+💡 Curious, initiative-driven, and always building new skills to turn messy data into actionable insights  
 
-As part of the Break Through Tech AI program hosted by Cornell Tech, I’ve been gaining hands-on experience with analytics tools, machine learning concepts, and real-world data applications.  
+---
 
-Currently, I’m focused on exploring data-driven decision-making and technical operations in FinTech and analytics. I’m seeking an internship where I can contribute to impactful projects and continue learning in real-world environments.
+## 🚀 About Me  
+I thrive at the intersection of **data, finance, and technology**. My experiences include:  
+- Building structured databases and pipelines to analyze real-world datasets  
+- Applying **AI/ML techniques** to support risk evaluation and decision-making  
+- Designing dashboards and APIs to make insights accessible for business use  
 
-🛠 Tech Stack:
-Languages: Python, JavaScript
-Data & Analytics: Pandas, NumPy, scikit-learn, matplotlib, Excel, Google Sheets, Tableau
-Web Development: HTML, CSS, Node.js
-Databases: SQL, MySQL
-Tools: Jupyter Notebooks, Google Colab, VS Code, Git, GitHub
+Currently, I’m an **AI Fellow with Break Through Tech AI (Cornell Tech)**, working with **Greenwood & Mayne (G&M)** on applying machine learning to evaluate innovation and private credit opportunities.  
 
-🎯 **Featured Project: DMV Bank Climate Risk Map**  
-- What I’m Doing: I clean and standardize FDIC branch data for Maryland, DC, and Virginia, merge it with FEMA climate risk scores, and build an interactive Tableau map to show risk levels by location.  
-- Tools: Python (Pandas), SQL, Tableau, Excel  
-- Goal: Create a resource that identifies high-risk areas for bank branches in the DMV region by combining climate and financial data.  
+---
 
-Curious? See the full project here (https://github.com/fikreab123/climate_risk_dmv)
+## 🎯 Featured Project  
+### [Climate Risk Map for Bank Branches](https://github.com/fikreab123/climate_risk_dmv)  
 
-📫 How to Reach Me:  
-Email: fmezgebu@terpmail.umd.edu  
-LinkedIn: [linkedin.com/in/fikreab-mezgebu](https://www.linkedin.com/in/fikreab-mezgebu)
+🔎 Connected FDIC bank branch data with FEMA climate risk scores to explore financial exposure in the DMV region.  
+📊 Built an interactive Tableau dashboard and a lightweight backend prototype for exploring the results.  
 
+👉 Curious? See the full project here: [Climate Risk Map for Bank Branches](https://github.com/fikreab123/climate_risk_dmv)  
 
+💡 *See more projects below 👇*  
+
+---
+
+## 🛠 Tech Stack  
+- **Core Languages:** Python, SQL, JavaScript  
+- **Analytics/ML:** Pandas, NumPy, scikit-learn, TensorFlow  
+- **Visualization:** Tableau, Excel, matplotlib  
+- **Databases:** SQLite, MySQL  
+- **Web/Tools:** Flask, Node.js, Jupyter, Colab, VS Code, Git/GitHub  
+
+---
+
+## 🌟 Highlights  
+- 🎯 **Break Through Tech AI Fellow (Cornell Tech x Greenwood & Mayne)** — applied AI/ML to assess early-stage innovation and private credit funding opportunities  
+- 📊 **Climate Risk Analysis** — quantified **$586M in bank deposits** exposed to climate risk in DMV counties  
+- 🛠 **Data Integration & APIs** — built pipelines, dashboards, and backend prototypes to make insights accessible  
+
+---
+
+## 📫 Connect With Me  
+📧 Email: fmezgebu@terpmail.umd.edu  
+💼 LinkedIn: [linkedin.com/in/fikreab-mezgebu](https://linkedin.com/in/fikreab-mezgebu)  

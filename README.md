@@ -17,14 +17,12 @@ Currently, I’m an **AI Fellow with Break Through Tech AI (Cornell Tech)**, wor
 ---
 
 ## 🎯 Featured Project  
-### [Climate Risk Map for Bank Branches](https://github.com/fikreab123/climate_risk_dmv)  
+### Climate Risk Map for Bank Branches 
 
 🔎 Connected FDIC bank branch data with FEMA climate risk scores to explore financial exposure in the DMV region.  
 📊 Built an interactive Tableau dashboard and a lightweight backend prototype for exploring the results.  
 
 👉 Curious? See the full project here: [Climate Risk Map for Bank Branches](https://github.com/fikreab123/climate_risk_dmv)  
-
-💡 *See more projects below 👇*  
 
 ---
 
@@ -38,7 +36,7 @@ Currently, I’m an **AI Fellow with Break Through Tech AI (Cornell Tech)**, wor
 ---
 
 ## 🌟 Highlights  
-- 🎯 **Break Through Tech AI Fellow (Cornell Tech x Greenwood & Mayne)** — applied AI/ML to assess early-stage innovation and private credit funding opportunities  
+- 🎯 **Break Through Tech AI Fellow (Cornell Tech x Greenwood & Mayne)** — apply AI/ML to assess early-stage innovation and private credit funding opportunities  
 - 📊 **Climate Risk Analysis** — quantified **$586M in bank deposits** exposed to climate risk in DMV counties  
 - 🛠 **Data Integration & APIs** — built pipelines, dashboards, and backend prototypes to make insights accessible  
 

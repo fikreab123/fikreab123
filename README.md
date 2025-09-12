@@ -12,7 +12,7 @@ I thrive at the intersection of **data, finance, and technology**. My experience
 - Applying **AI/ML techniques** to support risk evaluation and decision-making  
 - Designing dashboards and APIs to make insights accessible for business use  
 
-Currently, I’m an **AI Fellow with Break Through Tech AI (Cornell Tech)**, working with **Greenwood & Mayne (G&M)** on applying machine learning to evaluate innovation and private credit opportunities.  
+Currently, I’m an **AI Fellow with Break Through Tech AI (Cornell Tech)**, working with **Chambers Capital** on applying machine learning to evaluate innovation and private credit opportunities.  
 
 ---
 
